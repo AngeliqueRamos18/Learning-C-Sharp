@@ -17,7 +17,22 @@
             //UserInput.ShowDemo();
 
             //Run Arithmetic.cs
-            
+            //Arithmetic.ShowDemo();
+
+            //Run RandomNumbers.cs
+            //RandomNumbers.ShowDemo();
+
+            //Run HypotenuseRightTriangle.cs
+            //HypotenuseRightTriangle.ShowDemo();
+
+            //Run StringMethods.cs
+            //StringMethods.ShowDemo();
+
+            //Run IfStatements.cs
+            //IfStatements.ShowDemo();
+
+            //Run SwitchStatement.cs
+            SwitchStatement.ShowDemo();
         }
     }
 }

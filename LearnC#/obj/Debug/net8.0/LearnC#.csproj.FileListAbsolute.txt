@@ -1,0 +1,15 @@
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\bin\Debug\net8.0\LearnC#.exe
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\bin\Debug\net8.0\LearnC#.deps.json
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\bin\Debug\net8.0\LearnC#.runtimeconfig.json
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\bin\Debug\net8.0\LearnC#.dll
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\bin\Debug\net8.0\LearnC#.pdb
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.AssemblyInfoInputs.cache
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.AssemblyInfo.cs
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.csproj.CoreCompileInputs.cache
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.sourcelink.json
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.dll
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\refint\LearnC#.dll
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.pdb
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\LearnC#.genruntimeconfig.cache
+C:\Users\Angel\Documents\GitHub\Learning-C-Sharp\LearnC#\obj\Debug\net8.0\ref\LearnC#.dll

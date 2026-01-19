@@ -32,7 +32,16 @@
             //IfStatements.ShowDemo();
 
             //Run SwitchStatement.cs
-            SwitchStatement.ShowDemo();
+            //SwitchStatement.ShowDemo();
+
+            //Run LogicalOperator.cs
+            //LogicalOperator.ShowDemo();
+
+            //Run WhileLoopDemo.cs
+            //WhileLoopDemo.ShowDemo();
+
+            //Run ForLoops.cs
+            ForLoopDemo.ShowDemo();
         }
     }
 }

@@ -41,7 +41,8 @@
             //WhileLoopDemo.ShowDemo();
 
             //Run ForLoops.cs
-            ForLoopDemo.ShowDemo();
+            //ForLoopDemo.ShowDemo();
+            //ForLoopDemo.CreateBorder(3, 4);
         }
     }
 }
